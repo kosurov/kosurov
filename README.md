@@ -6,6 +6,9 @@
 - e-mail: kosurov@inbox.ru
 
 ## Java-разработчик
+### Ссылки на мои работы
+[Дипломная работа на курсе "Java-разработчик"](https://github.com/kosurov/netology-diploma.git)
+
 ### Образование
 2022г. ООО "Нетология".  
 Курс "Java-разработчик".  
