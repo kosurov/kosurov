@@ -9,7 +9,8 @@
 ### Примеры моих работ
 [Дипломная работа на курсе "Java-разработчик"](https://github.com/kosurov/netology-diploma.git)  
 [Чтение данных API NASA](https://github.com/kosurov/nasa-api.git)  
-[Применение шаблона Builder](https://github.com/kosurov/person-builder.git)
+[Применение шаблона Builder](https://github.com/kosurov/person-builder.git)  
+[Применение шаблона Adapter](https://github.com/kosurov/calculator-with-adapter.git)
 
 ### Образование
 2022г. ООО "Нетология".  
