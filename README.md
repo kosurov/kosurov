@@ -7,6 +7,7 @@
 
 ## Java-разработчик
 ### Примеры моих работ
+[Проект "Библиотека" с использованием Spring MVC](https://github.com/kosurov/spring-mvc-project1.git)  
 [Дипломная работа на курсе "Java-разработчик"](https://github.com/kosurov/netology-diploma.git)  
 [Чтение данных API NASA](https://github.com/kosurov/nasa-api.git)  
 [Применение шаблона Builder](https://github.com/kosurov/person-builder.git)  
