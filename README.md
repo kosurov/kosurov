@@ -14,6 +14,7 @@
 [Применение шаблона Adapter](https://github.com/kosurov/calculator-with-adapter.git)  
 [Применение шаблона Facade](https://github.com/kosurov/facade.git)  
 [Применение шаблона Iterator](https://github.com/kosurov/iterator.git)
+[Сертификаты Нетологии](https://github.com/kosurov/neto-certificate.git)
 
 ### Образование
 2022г. ООО "Нетология".  
