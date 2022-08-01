@@ -10,6 +10,8 @@
 [Проект "Библиотека" с использованием Spring MVC](https://github.com/kosurov/spring-mvc-project1.git)  
 [Дипломная работа на курсе "Java-разработчик"](https://github.com/kosurov/netology-diploma.git)  
 [Чтение данных API NASA](https://github.com/kosurov/nasa-api.git)  
+[Тестирование сервиса медицинских показаний с использованием Mockito](https://github.com/kosurov/healthcare-service.git)  
+[Тестирование сервиса отправки локализованных сообщений](https://github.com/kosurov/geo-service.git)  
 [Применение шаблона Builder](https://github.com/kosurov/person-builder.git)  
 [Применение шаблона Adapter](https://github.com/kosurov/calculator-with-adapter.git)  
 [Применение шаблона Facade](https://github.com/kosurov/facade.git)  
