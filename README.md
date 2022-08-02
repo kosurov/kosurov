@@ -7,16 +7,23 @@
 
 ## Java-разработчик
 ### Примеры моих работ
+#### Spring
 [Проект "Библиотека" с использованием Spring MVC](https://github.com/kosurov/spring-mvc-project1.git)  
-[Дипломная работа на курсе "Java-разработчик"](https://github.com/kosurov/netology-diploma.git)  
+#### Дипломная работа на курсе "Java-разработчик"
+[Дипломная работа. Поисковая система](https://github.com/kosurov/netology-diploma.git)  
+#### Протокол HTTP. Вызов удаленных серверов
 [Чтение данных API NASA](https://github.com/kosurov/nasa-api.git)  
+#### Тестирование кода и Unit-тесты
 [Тестирование сервиса медицинских показаний с использованием Mockito](https://github.com/kosurov/healthcare-service.git)  
 [Тестирование сервиса отправки локализованных сообщений](https://github.com/kosurov/geo-service.git)  
+#### Шаблоны проектирования
 [Применение шаблона Builder](https://github.com/kosurov/person-builder.git)  
 [Применение шаблона Adapter](https://github.com/kosurov/calculator-with-adapter.git)  
 [Применение шаблона Facade](https://github.com/kosurov/facade.git)  
-[Применение шаблона Iterator](https://github.com/kosurov/iterator.git)  
-[Сертификаты Нетологии](https://github.com/kosurov/neto-certificate.git)
+[Применение шаблона Iterator](https://github.com/kosurov/iterator.git)
+#### Сертификаты
+[Java-разработчик](https://github.com/kosurov/neto-certificate/blob/main/netilogy-certificate.pdf)  
+[Введение в SQL и работу с базой данных](https://github.com/kosurov/neto-certificate/blob/main/certificate-sql.pdf)
 
 ### Образование
 2022г. ООО "Нетология".  
