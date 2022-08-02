@@ -13,6 +13,7 @@
 [Дипломная работа. Поисковая система](https://github.com/kosurov/netology-diploma.git)  
 #### Протокол HTTP. Вызов удаленных серверов
 [Чтение данных API NASA](https://github.com/kosurov/nasa-api.git)  
+[Запрос на получение списка фактов о кошках](https://github.com/kosurov/cats-info)  
 #### Тестирование кода и Unit-тесты
 [Тестирование сервиса медицинских показаний с использованием Mockito](https://github.com/kosurov/healthcare-service.git)  
 [Тестирование сервиса отправки локализованных сообщений](https://github.com/kosurov/geo-service.git)  
