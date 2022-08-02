@@ -11,9 +11,11 @@
 [Проект "Библиотека" с использованием Spring MVC](https://github.com/kosurov/spring-mvc-project1.git)  
 #### Дипломная работа на курсе "Java-разработчик"
 [Дипломная работа. Поисковая система](https://github.com/kosurov/netology-diploma.git)  
-#### Протокол HTTP. Вызов удаленных серверов
+#### Работа с сетью. Протокол HTTP. Вызов удаленных серверов
 [Чтение данных API NASA](https://github.com/kosurov/nasa-api.git)  
-[Запрос на получение списка фактов о кошках](https://github.com/kosurov/cats-info)  
+[Запрос на получение списка фактов о кошках](https://github.com/kosurov/cats-info.git)  
+[Клиент-серверное приложение](https://github.com/kosurov/client-server.git)  
+[Клиент-серверное приложение с рюшечками](https://github.com/kosurov/client-server.git)  
 #### Тестирование кода и Unit-тесты
 [Тестирование сервиса медицинских показаний с использованием Mockito](https://github.com/kosurov/healthcare-service.git)  
 [Тестирование сервиса отправки локализованных сообщений](https://github.com/kosurov/geo-service.git)  
