@@ -16,6 +16,8 @@
 [Запрос на получение списка фактов о кошках](https://github.com/kosurov/cats-info.git)  
 [Клиент-серверное приложение](https://github.com/kosurov/client-server.git)  
 [Клиент-серверное приложение с рюшечками](https://github.com/kosurov/client-server.git)  
+#### Работа с файлами CSV, XML, JSON
+[Работа с файлами CSV, XML, JSON](https://github.com/kosurov/csv-json.git)
 #### Тестирование кода и Unit-тесты
 [Тестирование сервиса медицинских показаний с использованием Mockito](https://github.com/kosurov/healthcare-service.git)  
 [Тестирование сервиса отправки локализованных сообщений](https://github.com/kosurov/geo-service.git)  
