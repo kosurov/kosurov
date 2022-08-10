@@ -24,6 +24,9 @@
 [Применение шаблона Adapter](https://github.com/kosurov/calculator-with-adapter.git)  
 [Применение шаблона Facade](https://github.com/kosurov/facade.git)  
 [Применение шаблона Iterator](https://github.com/kosurov/iterator.git)
+#### Исследование кода
+[Исследование работы JVM](https://github.com/kosurov/jvm-logic.git)  
+[Исследование работы программы с помощью VisualVm](https://github.com/kosurov/jvm-visualvm.git)  
 #### Сертификаты
 [Java-разработчик](https://github.com/kosurov/neto-certificate/blob/main/netilogy-certificate.pdf)  
 [Введение в SQL и работу с базой данных](https://github.com/kosurov/neto-certificate/blob/main/certificate-sql.pdf)
