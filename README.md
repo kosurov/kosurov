@@ -9,6 +9,7 @@
 ### Примеры моих работ
 #### Spring
 [Проект "Библиотека" с использованием Spring MVC](https://github.com/kosurov/spring-mvc-project1.git)  
+[Сервис Publisher с использованием Spring Boot](https://github.com/kosurov/publisher.git)  
 #### Дипломная работа на курсе "Java-разработчик"
 [Дипломная работа. Поисковая система](https://github.com/kosurov/netology-diploma.git)  
 #### Работа с сетью. Протокол HTTP. Вызов удаленных серверов
