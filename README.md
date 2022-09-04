@@ -7,9 +7,13 @@
 ## Java-разработчик
 
 ### Ключевые навыки
-* Java Spring, Hibernate
-* InttelliJ IDEA, Maven, Graddle, Git
+* Java, C#, VBA
+* PostgreSQL, MySQL
+* Servlets, jsp
+* Spring (Core, Boot, JPA, Security)
+* Hibernate
 * JUnit, Mockito
+* Intellij IDEA, Maven, Gradle, Git
 * Английский язык на уровне Intermediate
 
 ### Примеры моих работ
