@@ -17,9 +17,9 @@
 * Английский язык на уровне Pre-Intermediate
 
 ### Примеры моих работ
-#### Spring
+#### Spring, Hibernate
 [Телеграм Бот на Spring Boot](https://github.com/kosurov/nasabot-public.git)  
-[Проект "Библиотека" с использованием Spring MVC](https://github.com/kosurov/spring-mvc-project1.git)  
+[Проект "Библиотека" с использованием Spring и Hibernate](https://github.com/kosurov/spring-mvc-project1.git)  
 [Сервис Publisher с использованием Spring Boot](https://github.com/kosurov/publisher.git)  
 #### Дипломная работа на курсе "Java-разработчик"
 [Дипломная работа. Поисковая система](https://github.com/kosurov/netology-diploma.git)  
