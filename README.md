@@ -48,6 +48,7 @@
 #### Сертификаты
 [Java-разработчик](https://github.com/kosurov/neto-certificate/blob/main/netilogy-certificate.pdf)  
 [Введение в SQL и работу с базой данных](https://github.com/kosurov/neto-certificate/blob/main/certificate-sql.pdf)
+<!--
 
 ### Трудовой опыт
 
@@ -78,6 +79,7 @@
 
 ### О себе
 Я программист Java с опытом работы на учебных проектах. Изучил курс Java-разработчика в Нетологии. Работаю с базами данных, умею писать SQL-запросы. Имею опыт работы с фреймворками Spring и Hibernate. В настоящий момент хочу сменить профессию с инженера на Java-разработчика. В свободное время занимаюсь музыкой, играю на гитаре и барабанах.
+-->
 
 <!--
 **kosurov/kosurov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
