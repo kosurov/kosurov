@@ -2,21 +2,24 @@
 
 - Город: Санкт-Петербург
 - e-mail: dmitriikosurov@gmail.com
+- тг: [t.me/kosurov](https://t.me/kosurov)
 
 ## Java-разработчик
 
-### Стек
-* Java, C#, VBA
-* PostgreSQL, MySQL
-* Servlets, jsp
-* Spring (Core, Boot, JPA, Security)
-* Hibernate
-* JUnit, Mockito
-* Intellij IDEA, Maven, Gradle, Git
-* Английский Intermediate
+### Стек технологий
+* Java
+* Spring (Boot, Cloud, Data JPA)
+* Hibernate, Lombok, MapStruct
+* PostgreSQL, H2, Liquibase, SQL
+* Maven, Apache Kafka, Docker, Kubernetes, Jenkins 
+* JUnit, Mockito, Testcontainers, WireMock
+* Git, GitLab, GitHub
+* Jira, Confluence, Scrum
 
-### Примеры моих работ
+
+### Работы
 #### Spring, Hibernate
+[Работы по курсу Spring Boot от Otus](https://github.com/kosurov/2024-11-otus-spring-kosurov-library)  
 [Телеграм Бот на Spring Boot](https://github.com/kosurov/nasabot-public.git)  
 [Проект "Библиотека" с использованием Spring и Hibernate](https://github.com/kosurov/spring-mvc-project1.git)  
 [Сервис Publisher с использованием Spring Boot](https://github.com/kosurov/publisher.git)  
