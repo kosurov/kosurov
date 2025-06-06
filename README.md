@@ -20,6 +20,7 @@
 ### Работы
 #### Spring, Hibernate
 [Работы по курсу Spring Boot от Otus](https://github.com/kosurov/2024-11-otus-spring-kosurov-library)  
+[Работа по Spring Integration](https://github.com/kosurov/2024-11-otus-integration/tree/lesson-03-08)  
 [Телеграм Бот на Spring Boot](https://github.com/kosurov/nasabot-public.git)  
 [Проект "Библиотека" с использованием Spring и Hibernate](https://github.com/kosurov/spring-mvc-project1.git)  
 [Сервис Publisher с использованием Spring Boot](https://github.com/kosurov/publisher.git)  
