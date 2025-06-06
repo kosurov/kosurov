@@ -1,12 +1,11 @@
 # Косуров Дмитрий
 
 - Город: Санкт-Петербург
-- Телефон: +7 (964) 375-22-81
-- e-mail: kosurov@inbox.ru
+- e-mail: dmitriikosurov@gmail.com
 
 ## Java-разработчик
 
-### Ключевые навыки
+### Стек
 * Java, C#, VBA
 * PostgreSQL, MySQL
 * Servlets, jsp
@@ -14,7 +13,7 @@
 * Hibernate
 * JUnit, Mockito
 * Intellij IDEA, Maven, Gradle, Git
-* Английский язык на уровне Pre-Intermediate
+* Английский Intermediate
 
 ### Примеры моих работ
 #### Spring, Hibernate
